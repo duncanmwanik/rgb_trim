@@ -1,5 +1,6 @@
 name: rgb_trim
 description: Control leds via BLE.
+version: 1.0.0+1
 publish_to: "none"
 
 environment:
